@@ -20,7 +20,7 @@ This repository contains various Python programs organized into relevant categor
 ## Author ✍️
 
 * **Harikrishnan Gopal**
-* Connect with me on LinkedIn.
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/harikrishnangopal/)
 
 ## Contents
 
